@@ -45,8 +45,8 @@ Soy **Tecnólogo en Análisis y Desarrollo de Sistemas de Información** con amp
 
 ## 🌐 Conecta Conmigo
 
-- [![LinkedIn]([https://www.linkedin.com/in/your-profile](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/duvan-andres-salazar-soler/)
-- [![GitHub](https://github.com/your-profile](https://github.com/dsalazars))
+- https://www.linkedin.com/in/duvan-andres-salazar-soler/
+- https://github.com/your-profile](https://github.com/dsalazars/
 
 
 Conectemos y colaboremos en soluciones innovadoras. 🖥

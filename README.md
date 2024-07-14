@@ -28,9 +28,9 @@ Soy **Tecnólogo en Análisis y Desarrollo de Sistemas de Información** con amp
 
 ### Gestión de Bases de Datos
 - **SQL**
-  - SQLite
-  - SQL Server
-  - DBeaver
+- **PostgreSQL**
+- **SQL Server**
+- **DBeaver**
 
 ---
 

@@ -48,8 +48,8 @@ Tengo un historial comprobado en la creación de aplicaciones web y móviles efi
 
 ## 🌐 Conecta Conmigo
 
-- [![LinkedIn]([https://example.com/linkedin-logo.png)](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/duvan-andres-salazar-soler/))
-- [![GitHub]([https://example.com/github-logo.png)](https://github.com/your-profile](https://github.com/dsalazars))
+- [![LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/duvan-andres-salazar-soler/))
+- [![GitHub](https://github.com/your-profile](https://github.com/dsalazars))
 
 
 ¡Explora mis repositorios y proyectos! Conectemos y colaboremos en soluciones innovadoras.

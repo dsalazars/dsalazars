@@ -1,4 +1,4 @@
-# 👨‍💻 [Duvan Andres Salazar Soler] - Analista y Desarrollador de Sistemas de Información
+# 👨‍💻 Duvan Andres Salazar Soler - Analista y Desarrollador Jr
 
 ### 🚀 ¡Bienvenido a Mi Perfil de GitHub!
 
@@ -6,7 +6,8 @@
 
 ## 🌟 Sobre Mí
 
-Soy **Tecnólogo en Análisis y Desarrollo de Sistemas de Información** con amplia experiencia en desarrollo móvil, utilizando tecnologías como **React Native**, **Flutter** y **Java** para crear aplicaciones móviles multiplataforma de alto rendimiento con interfaces de usuario intuitivas.
+Soy **Tecnólogo en Análisis y Desarrollo de Sistemas de Información** con amplia experiencia en **desarrollo web y móvil**, creando aplicaciones multiplataforma de alto rendimiento con interfaces de usuario intuitivas con una sólida comprensión en la integración de servicios backend y frontend, Mi pasión por la tecnología y el aprendizaje continuo me impulsa a estar siempre actualizado con las últimas tendencias y mejores prácticas del desarrollo de software.
+
 
 ---
 
@@ -32,10 +33,6 @@ Soy **Tecnólogo en Análisis y Desarrollo de Sistemas de Información** con amp
   - DBeaver
 
 ---
-
-## 📈 Experiencia y Experiencia
-
-Tengo un historial comprobado en la creación de aplicaciones web y móviles eficientes, integrando perfectamente tecnologías frontend y backend. Mis habilidades avanzadas en diseño e implementación de soluciones escalables aseguran una experiencia de usuario superior.
 
 ### Puntos Clave:
 - Desarrollo de aplicaciones móviles de alto rendimiento con interfaces intuitivas.

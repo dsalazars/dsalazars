@@ -35,7 +35,7 @@ Soy **Tecnólogo en Análisis y Desarrollo de Sistemas de Información** con amp
 ---
 
 ### Puntos Clave:
-- Desarrollo de aplicaciones móviles de alto rendimiento con interfaces intuitivas.
+- Desarrollo de aplicaciones móviles de alto rendimiento.
 - Integración de tecnologías frontend y backend para experiencias de usuario fluidas.
 - Diseño e implementación de soluciones escalables.
 - Contribución a mejoras tecnológicas innovadoras.

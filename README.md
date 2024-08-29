@@ -19,6 +19,9 @@ Soy **Tecnólogo en Análisis y Desarrollo de Sistemas de Información** con amp
 - **Java**
 
 ### Desarrollo Frontend
+- **HTML**
+- **CSS**
+- **JavaScript**
 - **Vue.js**
 - **React**
 

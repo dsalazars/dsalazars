@@ -1,4 +1,4 @@
-# 👨‍💻 Duvan Andres Salazar Soler - Analista y Desarrollador Jr
+# 👨‍💻 Duvan Andres Salazar Soler - Analista Desarrollador 
 
 ### 🚀 ¡Bienvenido a Mi Perfil de GitHub!
 

@@ -10,8 +10,7 @@ Soy un **Tecnólogo en Análisis y Desarrollo de Sistemas de Información** con 
 
 Me especializo en la integración de **frontend y backend**, asegurando soluciones **escalables y eficientes**. Siempre estoy explorando nuevas tecnologías y aplicando las mejores prácticas en el desarrollo de software.  
 
----
-
+<!-- 
 <p align="center">
   <img src="https://img.shields.io/badge/💻-Full_Stack_Developer-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/📱-Mobile_Experience-lightblue?style=for-the-badge">
@@ -22,6 +21,7 @@ Me especializo en la integración de **frontend y backend**, asegurando solucion
   <img src="https://img.shields.io/badge/🗄️-SQL_%7C_PostgreSQL_%7C_MSSQL-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/🔹-PHP_%7C_Node.js_Developer-critical?style=for-the-badge">
 </p>
+-->
 
 ---
 

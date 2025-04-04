@@ -50,7 +50,6 @@ Me especializo en la integración de **frontend y backend**, asegurando solucion
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" height="40">
 </p>
 
 ### 🗄 Gestión de Bases de Datos  

@@ -33,7 +33,6 @@ Me especializo en la integración de **frontend y backend**, asegurando solucion
 <p align="left">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" height="40">
 </p>
 
 ### 💻 Desarrollo Frontend  
